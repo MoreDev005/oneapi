@@ -2,7 +2,7 @@
   "name": "oneapi",
   "version": "1.0.0",
   "description": "one api",
-  "main": "fork.js",
+  "main": "index.js",
   "scripts": {
     "run": "node index.js"
   },
