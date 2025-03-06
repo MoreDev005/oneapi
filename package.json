@@ -1,0 +1,21 @@
+{
+  "name": "oneapi",
+  "version": "1.0.0",
+  "description": "one api",
+  "main": "fork.js",
+  "scripts": {
+    "start": "node fork.js"
+  },
+  "author": "Iwan",
+  "license": "ISC",
+  "dependencies": {
+    "@vreden/youtube_scraper": "^1.2.5",
+    "axios": "^1.6.8",
+    "chalk": "~4.1.0",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2",
+    "fb-downloader-scrapper": "^2.0.0",
+    "ytdl-core": "npm:@distube/ytdl-core@4.15.9",
+    "ytdl-corevideo": "npm:@distube/ytdl-core@4.15.9"
+  }
+}
