@@ -1,6 +1,6 @@
 const fs = require('fs')
 const express = require('express')
-const port = process.env.SERVER_PORT
+const port = 3000||process.env.SERVER_PORT
 const app = express()
 const ttdown = require('./tiktokwm.js')
 const tw = require('./tw.js')
