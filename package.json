@@ -4,7 +4,7 @@
   "description": "one api",
   "main": "fork.js",
   "scripts": {
-    "start": "node fork.js"
+    "run": "node index.js"
   },
   "author": "Iwan",
   "license": "ISC",
